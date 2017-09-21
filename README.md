@@ -1,0 +1,1 @@
+# Data-Indexing-in-Solr-with-Preprocesing
